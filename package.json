@@ -92,7 +92,7 @@
     "rimraf": "^2.5.4",
     "selenium-webdriver": "^3.0.1",
     "tslint": "^4.0.0",
-    "typescript": "^2.0.3"
+    "typescript": "^2.2.1"
   },
   "dependencies": {
     "@types/glob": "^5.0.30",
